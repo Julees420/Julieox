@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Julieox
 - 👀 I’m interested in Music and Coding
-- 🌱 I’m currently learning Java, JavaScript, SQL and C#
+- 🌱 I’m currently learning Java, JavaScript, SQL and C++
 - 💞️ I’m looking to collaborate on smaller projects
 - 📫 How to reach me: fischbachj03@gmail.com
 
